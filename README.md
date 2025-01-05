@@ -1,2 +1,1 @@
-# Hello Odin!
-# Hello Everyone!
+# Hello Odin and Everyone!
